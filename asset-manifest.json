@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://architjain1996.github.io/csb-yllcb/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://architjain1996.github.io/csb-yllcb/static/js/main.6ed910ed.chunk.js",
+    "main.js.map": "https://architjain1996.github.io/csb-yllcb/static/js/main.6ed910ed.chunk.js.map",
+    "runtime-main.js": "https://architjain1996.github.io/csb-yllcb/static/js/runtime-main.0cfdc98e.js",
+    "runtime-main.js.map": "https://architjain1996.github.io/csb-yllcb/static/js/runtime-main.0cfdc98e.js.map",
+    "static/js/2.630a3eed.chunk.js": "https://architjain1996.github.io/csb-yllcb/static/js/2.630a3eed.chunk.js",
+    "static/js/2.630a3eed.chunk.js.map": "https://architjain1996.github.io/csb-yllcb/static/js/2.630a3eed.chunk.js.map",
+    "index.html": "https://architjain1996.github.io/csb-yllcb/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://architjain1996.github.io/csb-yllcb/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.630a3eed.chunk.js.LICENSE.txt": "https://architjain1996.github.io/csb-yllcb/static/js/2.630a3eed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cfdc98e.js",
+    "static/js/2.630a3eed.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.6ed910ed.chunk.js"
+  ]
+}
